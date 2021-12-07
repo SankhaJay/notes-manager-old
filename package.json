@@ -1,0 +1,20 @@
+{
+  "name": "notes-manager",
+  "version": "1.0.0",
+  "description": "REST API backend application that can be used to manage personal notes in a multi-user environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SankhaJay/notes-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SankhaJay/notes-manager/issues"
+  },
+  "homepage": "https://github.com/SankhaJay/notes-manager#readme"
+}
